@@ -1,0 +1,13 @@
+﻿a:link {
+    text-decoration: none;
+    font-size: 13px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+}
+
+a:hover {
+    font-size: 17px;
+    color :darkred;
+}
+
+                
